@@ -1,0 +1,8 @@
+Total log lines processed: 33236604
+Total lines with log levels: 33236604
+Unique log levels: 4
+Log level distribution:
+  INFO: 27389482
+  : 5826268
+  ERROR: 11259
+  WARN: 9595

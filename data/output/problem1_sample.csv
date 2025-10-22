@@ -1,0 +1,11 @@
+message,log_level
+17/06/09 17:02:13 INFO storage.BlockManager: Found block rdd_3295_17 locally,INFO
+17/06/09 18:52:08 INFO executor.Executor: Running task 24.0 in stage 7576.0 (TID 303106),INFO
+17/06/09 16:58:29 INFO executor.Executor: Running task 14.0 in stage 1761.0 (TID 74934),INFO
+17/06/08 17:45:11 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 66139,INFO
+17/06/09 19:52:37 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 73734,INFO
+"17/06/09 16:18:24 INFO python.PythonRunner: Times: total = 40, boot = 25, init = 14, finish = 1",INFO
+"17/06/08 19:42:05 INFO python.PythonRunner: Times: total = 39, boot = -26, init = 65, finish = 0",INFO
+"17/06/08 13:47:47 INFO python.PythonRunner: Times: total = 40, boot = 17, init = 23, finish = 0",INFO
+17/06/08 22:15:16 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 863221,INFO
+Update row: 77703,
