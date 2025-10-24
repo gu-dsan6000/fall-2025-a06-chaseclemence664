@@ -1,0 +1,5 @@
+Total unique clusters: 1
+Total applications: 1601
+Average applications per cluster: 1601.0
+Most heavily used containers in order:
+  1485248649253: 1601 applications
